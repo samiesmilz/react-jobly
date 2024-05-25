@@ -1,0 +1,49 @@
+.Company {
+  background-color: white;
+  color: #2c2c34;
+  border: #2c2c34 solid 1px;
+  border-radius: 5px;
+  text-align: left;
+  padding: 15px;
+  width: 70vw;
+}
+
+.Company:hover {
+  background-color: #2c2c34;
+  color: aliceblue;
+}
+
+.Company-name {
+  margin-right: 15px;
+  display: inline;
+  color: aliceblue;
+  background-color: #2c2c34;
+  padding: 2px 10px;
+}
+.Company-description {
+  font-size: small;
+  padding-left: 5px;
+}
+.Company-employees {
+  margin: 0px;
+  color: rgb(92, 183, 153);
+}
+
+.Company-name:hover {
+  color: aquamarine;
+}
+
+.Company-jobs {
+  display: inline;
+  background-color: aquamarine;
+  border-radius: 5px;
+  border: 1px solid aquamarine;
+}
+
+.Company-jobs:hover {
+  background-color: aquamarine;
+  color: black;
+}
+.Company h6 {
+  margin: 5px;
+}

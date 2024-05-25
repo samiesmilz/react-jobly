@@ -1,0 +1,84 @@
+.Profile-Div {
+  display: flex;
+  flex-direction: column;
+  place-items: center;
+  justify-content: center;
+  height: 95vh;
+}
+
+.Profile {
+  padding: 100px;
+  padding-top: 70px;
+  /* background-color: rgba(240, 248, 255, 0.753); */
+  background-color: rgba(127, 255, 212, 0.831);
+  color: black;
+  box-shadow: 0 2px 5px rgba(197, 225, 248, 0.12);
+  border-radius: 25px;
+}
+
+.Profile-title {
+  text-align: center;
+  font-size: xx-large;
+  font-weight: 300;
+  color: black;
+  padding: 0px 15px;
+}
+.title-span {
+  color: aquamarine;
+  font-weight: 500;
+  background-color: black;
+  border-radius: 10px;
+  padding: 2px 10px;
+}
+.Profile-heading {
+  background-color: black;
+  color: aquamarine;
+  padding: 10px;
+}
+
+.Profile div {
+  margin-bottom: 0.5em;
+  min-width: 300px;
+  background-color: rgba(127, 255, 212, 0.066);
+  padding: 2px 15px;
+  background-color: 5px;
+}
+
+.Profile label {
+  display: block;
+  margin-bottom: 0.5em;
+  font-size: small;
+  text-align: left;
+}
+
+.Profile input {
+  width: 100%;
+  padding: 0.5em;
+  box-sizing: border-box;
+}
+
+.Profile .error {
+  color: red;
+  font-size: 0.6em;
+  padding: 0px;
+  margin: 0px;
+  text-align: left;
+}
+
+.Profile button {
+  width: 100%;
+  padding: 0.7em;
+  border: 1px solid black;
+  border-radius: 5px;
+  background-color: black;
+  color: white;
+  font-size: 1em;
+}
+
+.Profile-unlock {
+  background-color: black;
+  color: white;
+  margin-bottom: 5px;
+  border: 0.2px dotted aquamarine;
+  border-radius: 5px;
+}
