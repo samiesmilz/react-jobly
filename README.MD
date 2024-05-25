@@ -7,6 +7,7 @@ Jobly is a job search platform where users can explore job opportunities and com
 ## Home Component
 
 The `Home` component, is the landing page for the Jobly web application.
+
 ![Home](./JoblyHome.png)
 
 **Functionality**
@@ -23,6 +24,7 @@ The `Home` component, is the landing page for the Jobly web application.
 ## LoginForm Component
 
 The `LoginForm` component allows users to log in to the Jobly web application.
+
 ![Login](./Login.png)
 
 **Functionality**
@@ -46,6 +48,7 @@ The `LoginForm` component allows users to log in to the Jobly web application.
 ## SignUpForm Component
 
 The `SignUpForm` component allows users to create a new account on the Jobly web application.
+
 ![Sign Up](./signup.png)
 
 **Functionality**
@@ -65,6 +68,7 @@ The `SignUpForm` component allows users to create a new account on the Jobly web
 ## Companies Component
 
 The `Companies` component displays a list of companies on the Jobly web application.
+
 ![Companies](./companies.png)
 
 **Functionality**
@@ -81,6 +85,7 @@ The `Companies` component displays a list of companies on the Jobly web applicat
 ## Jobs Component
 
 The `Jobs` component displays a list of jobs available on the Jobly web application.
+
 ![Jobs](./Jobs.png)
 
 **Functionality**
@@ -98,7 +103,8 @@ The `Jobs` component displays a list of jobs available on the Jobly web applicat
 ## Profile Component
 
 The `Profile` component allows users to view and edit their profile information on the Jobly web application.
-![Profile](./profile.png)
+
+![Profile](./Profile.png)
 
 **Functionality**
 
@@ -249,4 +255,4 @@ Contributions are welcome! Please follow these steps to contribute:
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
----
+### By: Samuel Abinsinguza
